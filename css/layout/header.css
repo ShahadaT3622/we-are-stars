@@ -1,0 +1,13 @@
+header {
+    background-color: var(--primary-color);
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header .logo {
+    font-size: 2em;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+}

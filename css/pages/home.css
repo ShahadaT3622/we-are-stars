@@ -1,0 +1,38 @@
+.hero {
+    background-image: url('../assets/images/hero-bg.jpg');
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero .cta-button {
+    background-color: var(--primary-color);
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.hero .cta-button:hover {
+    background-color: #0056b3;
+}
+
+.about {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.about .cta-button {
+    background-color: var(--primary-color);
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.about .cta-button:hover {
+    background-color: #0056b3;
+}
